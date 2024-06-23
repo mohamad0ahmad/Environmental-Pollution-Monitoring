@@ -30,7 +30,10 @@ This project involves monitoring environmental pollution using various sensors a
 2. **Simulation Setup:**
    - Add `.hex` files to the MQ-2 and MQ-135 components in the Proteus simulation.
 
+## Video Demonstration
+
+For a detailed demonstration of the project, check out the [video link](https://drive.google.com/drive/folders/1T7X3ar6TbX9SgofqTyyphqLLF46PrYWK?usp=sharing).
+
 ## Notes
 
 Make sure to follow the setup instructions carefully to ensure the proper functioning of the sensors and components.
-
