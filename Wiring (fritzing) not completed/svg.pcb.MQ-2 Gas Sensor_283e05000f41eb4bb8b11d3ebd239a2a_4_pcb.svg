@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0in" baseProfile="tiny" viewBox="0 0 10.3124 10.2616" width="0.406in" x="0in"  height="0.404in" version="1.2">
+    <desc >
+        <referenceFile >sparkfun-analogic_dil-08_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.1" id="copper1" >
+        <circle gorn="0.1.0" id="connector0pad" cy="8.9408" stroke="#F7BD13" connectorname="1" cx="1.3462" stroke-width="0.254" fill="none"  r="0.5334"/>
+        <path stroke="none" d="m1.3462,7.62a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM0.9398,8.9408a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        <circle gorn="0.1.2" id="connector1pad" cy="8.9408" stroke="#F7BD13" connectorname="2" cx="3.8862" stroke-width="0.254" fill="none"  r="0.5334"/>
+        <path stroke="none" d="m3.8862,7.62a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM3.4798,8.9408a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        <circle gorn="0.1.4" id="connector6pad" cy="1.3208" stroke="#F7BD13" connectorname="7" cx="3.8862" stroke-width="0.254" fill="none"  r="0.5334"/>
+        <path stroke="none" d="m3.8862,0a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM3.4798,1.3208a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        <circle gorn="0.1.6" id="connector7pad" cy="1.3208" stroke="#F7BD13" connectorname="8" cx="1.3462" stroke-width="0.254" fill="none"  r="0.5334"/>
+        <path stroke="none" d="m1.3462,0a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM0.9398,1.3208a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        <circle gorn="0.1.8" id="connector2pad" cy="8.9408" stroke="#F7BD13" connectorname="3" cx="6.4262" stroke-width="0.254" fill="none"  r="0.5334"/>
+        <path stroke="none" d="m6.4262,7.62a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM6.0198,8.9408a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        <circle gorn="0.1.10" id="connector3pad" cy="8.9408" stroke="#F7BD13" connectorname="4" cx="8.9662" stroke-width="0.254" fill="none"  r="0.5334"/>
+        <path stroke="none" d="m8.9662,7.62a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM8.5598,8.9408a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        <circle gorn="0.1.12" id="connector5pad" cy="1.3208" stroke="#F7BD13" connectorname="6" cx="6.4262" stroke-width="0.254" fill="none"  r="0.5334"/>
+        <path stroke="none" d="m6.4262,0a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM6.0198,1.3208a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        <circle gorn="0.1.14" id="connector4pad" cy="1.3208" stroke="#F7BD13" connectorname="5" cx="8.9662" stroke-width="0.254" fill="none"  r="0.5334"/>
+        <path stroke="none" d="m8.9662,0a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM8.5598,1.3208a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        <g gorn="0.1.16" id="copper0" >
+            <circle gorn="0.1.16.0" id="connector0pad" cy="8.9408" stroke="#F7BD13" connectorname="1" cx="1.3462" stroke-width="0.254" fill="none"  r="0.5334"/>
+            <path stroke="none" d="m1.3462,7.62a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM0.9398,8.9408a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+            <circle gorn="0.1.16.2" id="connector1pad" cy="8.9408" stroke="#F7BD13" connectorname="2" cx="3.8862" stroke-width="0.254" fill="none"  r="0.5334"/>
+            <path stroke="none" d="m3.8862,7.62a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM3.4798,8.9408a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+            <circle gorn="0.1.16.4" id="connector6pad" cy="1.3208" stroke="#F7BD13" connectorname="7" cx="3.8862" stroke-width="0.254" fill="none"  r="0.5334"/>
+            <path stroke="none" d="m3.8862,0a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM3.4798,1.3208a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+            <circle gorn="0.1.16.6" id="connector7pad" cy="1.3208" stroke="#F7BD13" connectorname="8" cx="1.3462" stroke-width="0.254" fill="none"  r="0.5334"/>
+            <path stroke="none" d="m1.3462,0a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM0.9398,1.3208a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+            <circle gorn="0.1.16.8" id="connector2pad" cy="8.9408" stroke="#F7BD13" connectorname="3" cx="6.4262" stroke-width="0.254" fill="none"  r="0.5334"/>
+            <path stroke="none" d="m6.4262,7.62a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM6.0198,8.9408a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+            <circle gorn="0.1.16.10" id="connector3pad" cy="8.9408" stroke="#F7BD13" connectorname="4" cx="8.9662" stroke-width="0.254" fill="none"  r="0.5334"/>
+            <path stroke="none" d="m8.9662,7.62a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM8.5598,8.9408a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+            <circle gorn="0.1.16.12" id="connector5pad" cy="1.3208" stroke="#F7BD13" connectorname="6" cx="6.4262" stroke-width="0.254" fill="none"  r="0.5334"/>
+            <path stroke="none" d="m6.4262,0a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM6.0198,1.3208a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+            <circle gorn="0.1.16.14" id="connector4pad" cy="1.3208" stroke="#F7BD13" connectorname="5" cx="8.9662" stroke-width="0.254" fill="none"  r="0.5334"/>
+            <path stroke="none" d="m8.9662,0a0.6604,0.6604 0 0 1 0.6604,0.6604l0,1.3208a0.6604,0.6604 0 0 1 -0.6604,0.6604l-0,0a0.6604,0.6604 0 0 1 -0.6604,-0.6604l0,-1.3208a0.6604,0.6604 0 0 1 0.6604,-0.6604l0,0zM8.5598,1.3208a0.4064,0.4064 0 1 0 0.8128,0 0.4064,0.4064 0 1 0 -0.8128,0z&#xd;&#xa;" stroke-width="0" fill="#F7BD13" />
+        </g>
+    </g>
+    <g gorn="0.2" id="silkscreen" >
+        <line x2="0.0762" stroke="#f0f0f0" y2="2.2098" stroke-linecap="round" class="other" x1="10.2362" y1="2.2098" stroke-width="0.1524" />
+        <line x2="10.2362" stroke="#f0f0f0" y2="8.0518" stroke-linecap="round" class="other" x1="0.0762" y1="8.0518" stroke-width="0.1524" />
+        <line x2="10.2362" stroke="#f0f0f0" y2="8.0518" stroke-linecap="round" class="other" x1="10.2362" y1="2.2098" stroke-width="0.1524" />
+        <line x2="0.0762" stroke="#f0f0f0" y2="4.1148" stroke-linecap="round" class="other" x1="0.0762" y1="2.2098" stroke-width="0.1524" />
+        <line x2="0.0762" stroke="#f0f0f0" y2="6.1468" stroke-linecap="round" class="other" x1="0.0762" y1="8.0518" stroke-width="0.1524" />
+        <path stroke="#f0f0f0" d="M0.0762,4.1148 A1.016,1.016 0 1 1 0.0762,6.1468" class="other" stroke-width="0.1524" fill="none" />
+    </g>
+</svg>
